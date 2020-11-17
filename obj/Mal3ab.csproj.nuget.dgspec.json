@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {}
+    "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {
+    "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
+        "projectUniqueName": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
         "projectName": "Mal3ab",
-        "projectPath": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
+        "projectPath": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
         "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\obj\\",
+        "outputPath": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hazem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,6 +35,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
