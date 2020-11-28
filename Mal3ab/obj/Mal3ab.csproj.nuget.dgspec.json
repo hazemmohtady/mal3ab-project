@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {}
+    "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {
+    "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
+        "projectUniqueName": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
         "projectName": "Mal3ab",
-        "projectPath": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
+        "projectPath": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\Mal3ab.csproj",
         "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\obj\\",
+        "outputPath": "c:\\Users\\hazem\\Desktop\\web develop\\mal3ab-project\\Mal3ab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hazem\\AppData\\Roaming\\NuGet\\NuGet.Config"
